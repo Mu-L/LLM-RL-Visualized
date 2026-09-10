@@ -2,12 +2,13 @@
 <a id="llm"></a>
 <h1 align="center">Open-Source LLMs（开源）</h1>
 <p align="center">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026.08-blue">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026.09-blue">
   <img alt="Scope" src="https://img.shields.io/badge/Scope-LLM-forestgreen">
 </p>
 
 | Name (模型名)        | Organization (机构)     | Date    | Paper                                                                                                       | Code                                                                                                    | Config                                                                                                          |
 | ------------------- | -------------------- | ------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **DeepSeek-V4.1-Flash**     | DeepSeek             | 2026.09 | 📕[PDF](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf)                | 📁[Code](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/tree/main)     | ⚙️[Config & Models](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/config.json)                       |
 | **Hy4-preview**              | Tencent(腾讯)          | 2026.08 | 🌍[Blog](https://github.com/Tencent-Hunyuan/Hy4-preview/blob/main/README_CN.md)                     | 📁[Code](https://github.com/Tencent-Hunyuan/Hy4-preview)                                        | ⚙️[Config & Models](https://huggingface.co/tencent/Hy4-preview/blob/main/config.json)                 |
 | **Qwen3.8-Flash-Next**      | Alibaba(阿里巴巴)        | 2026.08  | 🌍[Blog](https://qwen.ai/blog?id=qwen3.8-flash-next)                                   | 📁[Code](https://github.com/QwenLM/Qwen3.8-Flash-Next)    | ⚙️[Config & Models](https://huggingface.co/Qwen/Qwen3.8-Flash-Next/blob/main/config.json)    |
 | **Kimi-K3**   | MoonshotAI(月之暗面)           | 2026.07 | 📕[PDF](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)                 | 📁[Code](https://huggingface.co/moonshotai/Kimi-K3/blob/main/modeling_kimi_k3.py)                           | ⚙️[Config & Models](https://huggingface.co/moonshotai/Kimi-K3/blob/main/config.json)                 |
